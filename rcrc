@@ -1,0 +1,3 @@
+#!/bin/sh
+#rcrc
+(sleep 1; echo "<init kisfiu 5 g>"; sleep 1)|telnet localhost 10007  
